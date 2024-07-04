@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Stella!
+
+💻 Studying Computer Science at Cal Poly Pomona, California<br/>
+🌐 Interested in Web Design and UI/UX<br/>
+💭 Currently learning about Operating Systems<br/>
+
+[![Stella's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssinlao)](https://github.com/ssinlao/github-readme-stats)
 
 <!--
 **ssinlao/ssinlao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
