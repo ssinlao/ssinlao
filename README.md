@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻  Studying Computer Science at Cal Poly Pomona, California<br>🌐  Experienced in Web Design and UI/UX<br>🔎  Interested in AI, Machine Learning, and Game Development<br>💭  Currently learning about Algorithm Design
+💻  Studying Computer Science and Data Science at Cal Poly Pomona, California<br>🌐  Experienced in Web Design and UI/UX<br>🔎  Interested in AI, Machine Learning, and Game Development<br>💭  Currently learning about Algorithm Design
 
 
 ## 🌐 Socials:
