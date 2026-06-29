@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an Algorithm Visualizer<br>🤝 I’m looking for help with gaining industry experience<br>🌱 I’m currently learning DevOps <br>💬 Ask me about Machine Learning and Big Data<br>⚡ Fun fact: I love baking and meal prepping!
+🎓 New Grad Computer Science major & Data Science Minor <br> 🔭 I’m currently working on an Algorithm Visualizer<br>🤝 I’m looking for help with gaining industry experience<br>🌱 I’m currently learning DevOps <br>💬 Ask me about Machine Learning and Big Data<br>⚡ Fun fact: I love baking and meal prepping!
 
 
 ## 🌐 Socials:
