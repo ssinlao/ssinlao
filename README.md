@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 New Grad Computer Science major & Data Science Minor <br> 🔭 I’m currently working on LeetCode 150<br>🤝 I’m looking to contribute to more projects and expand my portfolio<br>🌱 I’m currently working on good coding practices<br>💬 Ask me about Software Engineering and Data Analytics<br>⚡ Fun fact: I love baking and meal prepping!
+🎓 New Grad Computer Science major & Data Science Minor <br> 🔭 I’m currently working on rebuilding my personal website<br>🤝 I’m looking to contribute to more projects and expand my portfolio<br>🌱 I’m currently working on good coding practices<br>💬 Ask me about Software Engineering and Data Analytics<br>⚡ Fun fact: I love baking and meal prepping!
 
 
 ## 🌐 Socials:
