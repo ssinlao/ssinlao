@@ -13,6 +13,6 @@
 <br>
 <br>
 <h4>𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎 𝚑𝚎𝚛𝚎:</h4>
-<a href="discord.gg/whostella"><img src="discord-icon-svgrepo-com.svg" width=30 height=30></a>
+<a href="https://discord.gg/whostella"><img src="discord-icon-svgrepo-com.svg" width=30 height=30></a>
 &emsp;<a href="mailto:sinlaos.403@gmail.com"><img src="gmail-svgrepo-com.svg" width=30 height=30></a>
 &emsp;<a href="https://www.linkedin.com/in/stella-sinlao"><img src="linkedin-svgrepo-com.svg" width=30 height=30></a>
